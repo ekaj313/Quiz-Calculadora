@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Ingenieria Sistemas Computacionales\Programacion 2\Quiz Programacion 2\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\user\Documents\Ingenieria Sistemas Computacionales\Programacion 2\Quiz Programacion 2\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\user\Documents\Ingenieria Sistemas Computacionales\Programacion 2\Quiz Programacion 2\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\user\Documents\Ingenieria Sistemas Computacionales\Programacion 2\Quiz Programacion 2\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Ingenieria Sistemas Computacionales\Programacion 2\Quiz Programacion 2\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Ingenieria Sistemas Computacionales\Programacion 2\Quiz Programacion 2\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\user\Documents\Ingenieria Sistemas Computacionales\Programacion 2\Quiz Programacion 2\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\user\Documents\Ingenieria Sistemas Computacionales\Programacion 2\Quiz Programacion 2\Calculadora\obj\Debug\Calculadora.exe.config
